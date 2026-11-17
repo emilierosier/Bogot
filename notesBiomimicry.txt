@@ -1,0 +1,42 @@
+MAPS:
+Soil info: https://service.pdok.nl/tno/bro-bodemkaart/atom/bro-bodemkaart.xml
+
+Elevation: https://service.pdok.nl/rws/actueel-hoogtebestand-nederland/atom/dtm_05m.xml
+
+Peat thickness: https://bodemdata.nl/themakaarten/bodemeigenschappen/veendikte
+
+
+Grondwaterspiegeldieptemodel_2024.gml
+Grondwaterspiegeldieptemodel_2024.gpkg
+Grondwaterspiegeldieptemodel_2024.png
+bro-wdm-netcdf.zip
+WDM_observation.lyr
+WDM_observation.lyrx
+WDM_observation.sld
+
+
+"grondwaterspiegeldiepte/BRO_Grondwaterspiegeldieptemodel_V2024-01_1.gpkg"
+
+bro-wdm-version-4.0.0_no_netcdf
+
+ghg-mediaan.qml
+ghg-mediaan.sld
+ghg-mediaan.tif
+ghg-mediaan.tif.aux.xml
+glg-mediaan.qml
+glg-mediaan.sld
+glg-mediaan.tif
+gt-mediane-gxg.qml
+gt-mediane-gxg.sld
+gt-mediane-gxg.tif
+gt-modus.qml
+gt-modus.sld
+gt-modus.tif
+gvg-mediaan.qml
+gvg-mediaan.sld
+gvg-mediaan.tif
+references.qml
+refences.sld
+references.tif
+
+
